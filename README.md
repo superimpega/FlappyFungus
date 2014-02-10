@@ -1,4 +1,0 @@
-FlappyFungus
-============
-
-Game
